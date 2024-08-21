@@ -105,31 +105,31 @@ export const BIO = [
 
 export const SKILLS = [
   {
-    icon: <FaAws className="text-4xl text-cyan-400 lg:text-5xl" />,
+    icon: <FaAws className="text-4xl text-white lg:text-5xl" />,
     name: "AWS",
     experience: <FaJenkins className="text-4xl text-cyan-400 lg:text-5xl"/>,
     names: "Jenkins"
   },
   {
-    icon: <FaPython className="text-4xl text-white lg:text-5xl" />,
+    icon: <FaPython className="text-4xl text-sky-700 lg:text-5xl" />,
     name: "Python",
-    experience: <SiTerraform className="text-4xl text-white lg:text-5xl" />,
+    experience: <SiTerraform className="text-4xl text-indigo-600 lg:text-5xl" />,
     names: "Terraform"
   },
   {
-    icon: <FaLinux className="text-4xl text-green-600 lg:text-5xl" />,
+    icon: <FaLinux className="text-4xl text-green-500 lg:text-5xl" />,
     name: "Linux",
-    experience: <SiKubernetes className="text-4xl text-green-600 lg:text-5xl" />,
+    experience: <SiKubernetes className="text-4xl text-blue-500 lg:text-5xl" />,
     names: "Kubernetes"
   },
   {
-    icon: <SiMysql className="text-4xl text-red-600 lg:text-5xl" />,
+    icon: <SiMysql className="text-4xl text-sky-600 lg:text-5xl" />,
     name: "SQL",
-    experience: <RiReactjsLine className="text-4xl text-red-600 lg:text-5xl" />,
+    experience: <RiReactjsLine className="text-4xl text-cyan-400 lg:text-5xl" />,
     names: "React"
   },
   {
-    icon: <FaGitAlt className="text-4xl text-green-600 lg:text-5xl" />,
+    icon: <FaGitAlt className="text-4xl text-red-600 lg:text-5xl" />,
     name: "Git",
     experience: <FaNodeJs className="text-4xl text-green-600 lg:text-5xl" />,
     names: "Node.js"
